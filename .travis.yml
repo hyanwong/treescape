@@ -6,7 +6,6 @@ sudo: required
 
 r_binary_packages:
   - phangorn
-  - rgl
   - rmarkdown
   - knitr
 
