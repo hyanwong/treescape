@@ -26,7 +26,6 @@ Imports:
     MASS,
     phangorn,
     Rcpp,
-    rgl,
     RLumShiny,
     scatterD3,
     shiny,
